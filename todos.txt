@@ -1,0 +1,4 @@
+Add a new item
+Remove the previous items
+Take out the trash
+Clean the bag
